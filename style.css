@@ -1,0 +1,26 @@
+body {
+    background-color:lightseagreen;
+}
+
+h1 {
+    color: white;
+    font-family: 'Microsoft YaHei';
+}
+button {
+    background-color: cyan;
+    height: 30pt;
+    width: 80pt;
+    border-radius: 30px;
+    color: white;
+    border: none;
+    font-family: 'Microsoft YaHei';
+    font-size: 15px;
+    text-align: center;
+    
+}
+audio {
+    width: 20pc;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
